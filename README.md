@@ -3,4 +3,4 @@ Independently implement a project of the design of Verilog digital code lock bas
 
 [*Demo Video*](https://youtu.be/HS3wS0boEv8 "Demo Video")
 
-I'm busy with school work these days. So codes are still being sorted out... So sorry for that.
+I'm busy with school work these days. So codes are still being sorted out... So sorry for that. Maybe I'll upload the assignment first in several days.
